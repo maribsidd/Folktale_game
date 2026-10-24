@@ -1,6 +1,6 @@
 # Escape Room
 
-A simple text-based escape room game written in Python. Made as a CBSE Class 12 Computer Science practical project.
+A simple text-based escape room game written in Python. Solve riddles, find the key and the secret code, and escape before your moves run out.
 
 ## About
 
