@@ -9,6 +9,14 @@ riddles = [
     ("What has one eye but cannot see?", "needle"),
     ("What goes up but never comes down?", "age"),
     ("What has many teeth but cannot bite?", "comb"),
+    ("What has an eye, but cannot see?", "hurricane").
+    ("What goes up and down, but never moves?", "stairs"),
+    ("What has a head and a tail, but no body?", "coin"),
+    ("What has to be broken before you can use it?", "egg"),
+    ("What month of the year has 28 days?", "all of them"),
+    ("What questions can you never answer yes to?", "are you asleep yet"),
+    ("What is full of holes but still holds water?", "sponge"),
+    ("What is full of holes but still holds water?", "sponge"),
 ]
 
 spots = ["desk", "shelf", "drawer", "painting", "box", "carpet"]
