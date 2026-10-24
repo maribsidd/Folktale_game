@@ -8,10 +8,6 @@ You are locked in a room. Find the key and the secret 3-digit code, then open th
 
 The key, the code note, and the riddles are random each game, so every round is different.
 
-## Requirements
-
-- Python 3.6 or higher
-- No external libraries (only the built-in `random` module)
 
 ## How to Run
 
@@ -41,10 +37,3 @@ python escape_room.py
 - String methods (`strip`, `lower`, `isdigit`)
 - The `random` module (`randint`, `sample`, `choice`)
 - Return values
-
-## Project Structure
-
-```
-escape_room.py
-README.md
-```
